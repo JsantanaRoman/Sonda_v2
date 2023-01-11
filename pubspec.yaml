@@ -15,6 +15,7 @@ dependencies:
   page_transition: ^2.0.9
   modal_bottom_sheet: ^2.1.2
   flutter_svg: ^1.1.6
+  firebase_core: ^2.4.1
 
 dev_dependencies:
   flutter_test:

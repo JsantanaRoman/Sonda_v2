@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "923673857317",
+    "project_id": "sonda-16b94",
+    "storage_bucket": "sonda-16b94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923673857317:android:021e605f61304aafd15ecc",
+        "android_client_info": {
+          "package_name": "com.example.sonda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923673857317-2820urrhinmfln4o645tuh700pgik7fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBS8CbVfsKlzG-X7cKkf3EiorjCZO5YyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923673857317-2820urrhinmfln4o645tuh700pgik7fh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "923673857317-3bjobpc89g5gkgicmkrc278uv3pamoh2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.usasonda"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
